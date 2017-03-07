@@ -1,0 +1,6 @@
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\bin\Debug\DelegateSample1.exe.config
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\bin\Debug\DelegateSample1.exe
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\bin\Debug\DelegateSample1.pdb
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\obj\Debug\DelegateSample1.csprojResolveAssemblyReference.cache
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\obj\Debug\DelegateSample1.exe
+D:\VSProj\Practice Projects March\DelegateSample1\DelegateSample1\obj\Debug\DelegateSample1.pdb
